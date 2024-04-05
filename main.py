@@ -24,7 +24,9 @@ guardian = HeroClass("Guardian", [])
 
 green_shadow = Hero(smarty, megagrow, [])
 
-hero_db.append
+hero_db.append(green_shadow)
+
+
 
 xl = pd.read_excel('pvz_dataset.xlsx')
 selected_deck = []
