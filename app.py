@@ -8,5 +8,5 @@ def hello_world():
 
 if __name__ == '__main__':
     app.run(debug=True)
-else:
-    return "Invalid name", 400
+# else:
+#     return "Invalid name", 400
