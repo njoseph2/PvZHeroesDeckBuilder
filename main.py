@@ -52,6 +52,9 @@ for index, row in xl.iterrows():
 
 for entry in guardian.cards:
     print(entry)
+
+for entry in kabloom.cards:
+    print(entry)
     
 
 
