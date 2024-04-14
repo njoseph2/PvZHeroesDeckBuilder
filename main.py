@@ -55,6 +55,9 @@ for entry in guardian.cards:
 
 for entry in kabloom.cards:
     print(entry)
+
+for entry in smarty.cards:
+    print(entry)
     
 
 
