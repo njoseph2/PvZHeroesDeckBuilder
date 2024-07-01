@@ -62,6 +62,8 @@ for entry in smarty.cards:
 for entry in solar.cards:
     print(entry)
     
+for entry in megagrow.cards:
+    print(entry)
 
 
 selected_deck = []
