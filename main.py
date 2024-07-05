@@ -65,6 +65,7 @@ for entry in solar.cards:
 for entry in megagrow.cards:
     print(entry)
 
+print("everything sucks")
 
 selected_deck = []
 
