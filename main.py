@@ -66,6 +66,7 @@ for entry in megagrow.cards:
     print(entry)
 
 print("everything sucks")
+print('no really')
 
 selected_deck = []
 
