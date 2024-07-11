@@ -69,6 +69,7 @@ print("everything sucks")
 print('no really')
 print('everything is great')
 print("it really does")
+print("fuk hp")
 
 selected_deck = []
 
