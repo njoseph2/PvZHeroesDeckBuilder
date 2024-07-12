@@ -70,6 +70,7 @@ print('no really')
 print('everything is great')
 print("it really does")
 print("fuk hp")
+print("i hate her")
 
 selected_deck = []
 
