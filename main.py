@@ -72,6 +72,7 @@ print("it really does")
 print("fuk hp")
 print("i hate her")
 print("screw her")
+print('fk u')
 
 selected_deck = []
 
