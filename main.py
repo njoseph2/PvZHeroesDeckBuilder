@@ -65,14 +65,6 @@ for entry in solar.cards:
 for entry in megagrow.cards:
     print(entry)
 
-print("everything sucks")
-print('no really')
-print('everything is great')
-print("it really does")
-print("fuk hp")
-print("i hate her")
-print("screw her")
-print('fk u')
 
 selected_deck = []
 
