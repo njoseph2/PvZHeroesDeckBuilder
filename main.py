@@ -67,7 +67,7 @@ for entry in megagrow.cards:
 
 
 selected_deck = []
-
+print("ur mom")
 # print(xl.head())
 
 # i = 492
