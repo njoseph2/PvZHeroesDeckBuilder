@@ -71,7 +71,7 @@ print("ur mom")
 print("fish")
 print(xl.head())
 
-# i = 492
-# while (i <= 1000):
-#     print(i)
-#     i += 1
+i = 492
+while (i <= 1000):
+    print(i)
+    i += 1
