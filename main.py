@@ -74,4 +74,5 @@ print(xl.head())
 i = 492
 while (i <= 1000):
     print(i)
+    print(i + 1)
     # i += 1
