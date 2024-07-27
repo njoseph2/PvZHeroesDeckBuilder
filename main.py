@@ -75,4 +75,5 @@ i = 492
 while (i <= 1000):
     print(i)
     print(i + 1)
+    print(i + 2)
     # i += 1
