@@ -70,6 +70,7 @@ selected_deck = []
 print("ur mom")
 print("fish")
 print(xl.head())
+print("fishY")
 
 i = 492
 while (i <= 1000):
