@@ -77,6 +77,7 @@ while (i <= 1000):
     print(i)
     print(i - 1)
     print("bish")
+    print("lil fish")
     print(i - 2)
     print("fk")
     print(i - 4)
