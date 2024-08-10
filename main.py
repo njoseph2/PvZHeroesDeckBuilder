@@ -84,4 +84,5 @@ while (i <= 1000):
     print(i + 1)
     print(i + 2)
     print(i - 45)
+    print (i = 34)
     # i += 1
