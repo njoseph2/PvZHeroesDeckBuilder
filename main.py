@@ -88,4 +88,5 @@ while (i <= 1000):
     print(i - 12)
     print(i + 412)
     print("fishy lol")
+    print('fk hp')
     # i += 1
