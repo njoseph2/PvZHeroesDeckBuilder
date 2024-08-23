@@ -42,7 +42,7 @@ nightcap = Hero("Nightcap", kabloom, smarty, [])
 
 hero_db.append(green_shadow)
 
-xl = pd.read_excel('final pvz excel sheet lfg.xlsx')
+xl = pd.read_excel('pvz_dataset.xlsx')
 
 for index, row in xl.iterrows():
     class_name = row["Class"]
