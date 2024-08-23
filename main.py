@@ -42,7 +42,7 @@ nightcap = Hero("Nightcap", kabloom, smarty, [])
 
 hero_db.append(green_shadow)
 
-xl = pd.read_excel('pvz_dataset.xlsx')
+xl = pd.read_excel('final pvz excel sheet lfg.xlsx')
 
 for index, row in xl.iterrows():
     class_name = row["Class"]
@@ -67,27 +67,4 @@ for entry in megagrow.cards:
 
 
 selected_deck = []
-print("ur mom")
-print("fish")
-print(xl.head())
-print("fishY")
-
-i = 492
-while (i <= 1000):
-    print(i)
-    print(i - 1)
-    print("bish")
-    print("lil fish")
-    print(i - 2)
-    print("fk")
-    print(i - 4)
-    print(i + 1)
-    print(i + 2)
-    print(i - 45)
-    print (i = 34)
-    print(i - 12)
-    print(i + 412)
-    print("fishy lol")
-    print('fk hp')
-    print("hufowiQJDN")
     # i += 1
