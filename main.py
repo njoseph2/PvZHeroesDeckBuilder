@@ -58,8 +58,7 @@ for entry in kabloom.cards:
 
 for entry in smarty.cards:
     print(entry)
-    print("smarty")
-    
+
 for entry in solar.cards:
     print(entry)
     
