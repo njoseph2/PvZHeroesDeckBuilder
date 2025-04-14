@@ -1,4 +1,5 @@
 import pandas as pd
+import random
 
 class Hero:
     def __init__(self, name, class1, class2, stored_deck):
@@ -36,11 +37,8 @@ captain_combustible = Hero("Captain Combustible", megagrow, kabloom, [])
 grass_knuckles = Hero("Grass Knuckles", megagrow, guardian, [])
 wallknight = Hero("Wall-knight", solar, guardian, [])
 nightcap = Hero("Nightcap", kabloom, smarty, [])
-
-
-
-
 hero_db.append(green_shadow)
+hero_db.ap
 
 xl = pd.read_excel('pvz_dataset.xlsx')
 
@@ -64,7 +62,3 @@ for entry in solar.cards:
     
 for entry in megagrow.cards:
     print(entry)
-
-
-selected_deck = []
-    # i += 1
